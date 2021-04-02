@@ -1,11 +1,9 @@
-% Defend Richard Stallman!
-% Leah Rowe
-% 31 March 2021
+% Захисти Ричарда Стомена!
+% Лі Роу
+% 31 березня 2021
 
-I support freedom of speech. **Translations wanted for this article. I want
-this news article to be available in as many languages as possible.
-Download the Markdown file here: [rms.markdown](rms.markdown) and then
-translate it into your language. Send the translated file to <leah@libreboot.org>**
+
+Я підтримую свободу слова. **Розшукуються перекладачі для цієї статті. Я хочу, аби ця стаття була доступна в стількох мовах, у скількох тільки можливо. Завантажити оригінальний Markdown файл можна тут: [rms.markdown](https://libreboot.org/news/rms.markdown) -- і перекласти вашою мовою. Надсилайте іайл з перекладом до <leah@libreboot.org>**
 
 2 years ago, known *Thought Criminal* Richard M Stallman was falsely accused of
 defending *rape* in an Orwellian smear campaign, orchestrated by mainstream
