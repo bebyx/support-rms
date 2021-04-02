@@ -9,17 +9,16 @@
 Ричарда М. Столмена (РМС) звели наклепи, мовляв, той виправдовував
 *зґвалтування*. 36 років боротьби за *твої* цифрові права -- за'cancel'ені.
 Кампанія виявилася аж така злісна, що РМС звільнився з посади президента
-Фундації Вільного Програмного Забезпечення (FSF). FSF не зробив анічогісінько,
+Фундації Вільного Програмного Забезпечення (FSF). І FSF не зробив анічогісінько,
 щоб його захистити. Проте -- можеш захистити *ти*!
 
-On 21 March 2021, FSF board of directors re-instated Richard Stallman. In
-response, the media started a new smear campaign. A petition was created,
-calling for the forceful removal of RMS and the entire FSF board of directors.
-RMS has been wrongly accused of sexism, transphobia, ableism and a whole host
-of things intended to discredit him. Do not listen to any of it. Richard
-Stallman's political [notes](https://www.stallman.org/archives/) and
-[articles](https://stallman.org/#politics) paint the picture of a man who has
-staunchly campaigned *against* bigotry in all its forms!
+21 березня 2021 року голови FSF таки повернули Ричарда Столмена. У відповідь
+медії почали нову наклепницьку кампанію. Створили петицію, закликаючи ґвалтом
+звільняти РМС і геть усіх голів FSF. Серед наклепів на РМС є сексизм, трансфобія,
+аблеїзм і купа інших речей, аби тільки дискредитувати засновника FSF. Не вірте
+жодному звинуваченню. Політичні [нотатки](https://www.stallman.org/archives/) та
+[статті](https://stallman.org/#politics) Ричарда Столмена показують людину,
+котра навпаки послідовно *протистоїть* дискримінації в усіх її формах!
 
 **In response, we, the Free software movement, started our own petition. We
 wish for RMS to remain in his post, and for the FSF to hold their ground. We
