@@ -2,15 +2,15 @@
 % Лі Роу
 % 31 березня 2021
 
+Я підтримую свободу слова. **Розшукуються перекладачі для цієї статті. Я хочу, аби ця стаття була доступна стількома мовами, скількома тільки можливо. Завантажити оригінальний Markdown файл можна тут: [rms.markdown](https://libreboot.org/news/rms.markdown) -- і перекласти вашою мовою. Надсилайте файл з перекладом до <leah@libreboot.org>**
 
-Я підтримую свободу слова. **Розшукуються перекладачі для цієї статті. Я хочу, аби ця стаття була доступна в стількох мовах, у скількох тільки можливо. Завантажити оригінальний Markdown файл можна тут: [rms.markdown](https://libreboot.org/news/rms.markdown) -- і перекласти вашою мовою. Надсилайте іайл з перекладом до <leah@libreboot.org>**
-
-2 years ago, known *Thought Criminal* Richard M Stallman was falsely accused of
-defending *rape* in an Orwellian smear campaign, orchestrated by mainstream
-media at the behest of proprietary software vendors. 36 years fighting
-for *your* digital freedom, cancelled. It was so vicious that he resigned from
-his post as president of the Free Software Foundation. The FSF did nothing to
-protect or defend him. However, *you* can defend him!
+2 роки тому в орвеліянській кампанії, котру диригували мейнстрімні медіа за
+велінням виробників пропрієтарного ПЗ, на знаного *мисле-злочинця*
+Ричарда М. Столмена (РМС) звели наклепи, мовляв, той виправдовував
+*зґвалтування*. 36 років боротьби за *твої* цифрові права -- за'cancel'ені.
+Кампанія виявилася аж така злісна, що РМС звільнився з посади президента
+Фундації Вільного Програмного Забезпечення (FSF). FSF не зробив анічогісінько,
+щоб його захистити. Проте -- можеш захистити *ти*!
 
 On 21 March 2021, FSF board of directors re-instated Richard Stallman. In
 response, the media started a new smear campaign. A petition was created,
@@ -68,8 +68,8 @@ Our opponents wish to destroy Free Software
 Our opponent's true target is *not* Richard Stallman; their real aim is to
 destroy the FSF by thoroughly infiltrating it (like they already have with
 organisations like the OSI, the Linux Foundation or Mozilla). These people even
-started an online petition calling for RMS's forceful removal and for the entire 
-board of directors at the FSF to resign from their posts. This is clearly an 
+started an online petition calling for RMS's forceful removal and for the entire
+board of directors at the FSF to resign from their posts. This is clearly an
 attempt at a coup to overthrow the FSF! Out of fear, many known Free Software
 projects joined in on the anti-RMS witch hunt because they did not want to
 be *cancelled* either. **The list that attacks Richard has Microsoft, Google,
