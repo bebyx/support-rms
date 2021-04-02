@@ -20,15 +20,15 @@
 [статті](https://stallman.org/#politics) Ричарда Столмена показують людину,
 котра навпаки послідовно *протистоїть* дискримінації в усіх її формах!
 
-**In response, we, the Free software movement, started our own petition. We
-wish for RMS to remain in his post, and for the FSF to hold their ground. We
-call for the FSF to defend Richard Stallman's honour and his legacy. Richard
-Stallman is a human being, whose right to free speech was heavily suppressed.
-We must demonstrate our support of him to the FSF, loudly and clearly.**
+**Реагуючи, ми, рух Вільного програмного забезпечення, ініціювали власну петицію.
+Ми бажаємо, аби РМС залишався на посаді, а FSF — тримали позиції. Ми закликаємо
+Фундацію захищати честь і напрацювання Ричарда Столмена. Ричард Столмен — людина,
+чиє право на свободу слова сильно пригнітили. Ми маємо продемонструвати нашу
+підтримку його як частини FSF — гучно і чітко.**
 
-**If you support Free Software, believe in freedom of speech, freedom of
-community and social justice (true social justice, where a person is treated
-with dignity and not cancelled just for their beliefs), sign your name here:**
+**Якщо ви підтримуєте Вільне ПЗ, вірите в свободу слова, свободу суспільності і
+соціальну справедливість (справжню соціальну справедливість, коли до особистості
+ставляться з повагою і не «скасовують» за її погляди), підпишіться:**
 
 **<https://rms-support-letter.github.io/>**
 
